@@ -2,4 +2,5 @@
 
 Have fun with git :-)
 
-I will, thanks! 
+I will, thanks!
+![] (corgi.jpg)
